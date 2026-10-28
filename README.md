@@ -4,10 +4,10 @@ Studying Applied Statistics (B.S., data science and AI/ML emphasis) and Economic
 
 ## Featured projects
 
-**[syllabus-planner](https://github.com/dmterani9211/syllabus-planner)**: Turns syllabus PDFs into calendar-ready deadlines and grade weights using Claude with schema-constrained output. Benchmarked against a rule-based baseline on hand-labeled syllabi, with bootstrap confidence intervals.
+**[syllabus-planner](https://github.com/darya-terani/syllabus-planner)**: Turns syllabus PDFs into calendar-ready deadlines and grade weights using Claude with schema-constrained output. Benchmarked against a rule-based baseline on hand-labeled syllabi, with bootstrap confidence intervals.
 `Python` `LLMs` `Streamlit` `evaluation`
 
-**[vol-targeting](https://github.com/dmterani9211/vol-targeting)**: Walk-forward volatility targeting on 20 years of S&P 500 data, comparing GARCH, HAR, EWMA, rolling and PyTorch LSTM forecasts after trading costs. Cut maximum drawdown from 56% to 38%; found the plain LSTM failed in the 2008 crash, fixed it by anchoring to EWMA, and showed that the most accurate forecaster made the weakest strategy.
+**[vol-targeting](https://github.com/darya-terani/vol-targeting)**: Walk-forward volatility targeting on 20 years of S&P 500 data, comparing GARCH, HAR, EWMA, rolling and PyTorch LSTM forecasts after trading costs. Cut maximum drawdown from 56% to 38%; found the plain LSTM failed in the 2008 crash, fixed it by anchoring to EWMA, and showed that the most accurate forecaster made the weakest strategy.
 `Python` `PyTorch` `time series` `GARCH` `backtesting`
 
 ## What I work with
