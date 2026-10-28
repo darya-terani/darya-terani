@@ -1,6 +1,6 @@
 # Hi, I'm Darya
 
-Statistics and Economics double major at **UC Davis** (minor in Technology Management, graduating Sept 2027) building at the intersection of machine learning, quantitative finance and product. Founder of [Scholr](https://usescholr.com), an AI academic co-pilot for students.
+Studying Applied Statistics (B.S., data science and AI/ML emphasis) and Economics (B.A.) at **UC Davis**, with a minor in Technology Management, graduating Sept 2027. I build at the intersection of machine learning, quantitative finance and product. Founder of [Scholr](https://usescholr.com), an AI academic co-pilot for students.
 
 ## Featured projects
 
